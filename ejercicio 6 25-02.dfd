@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'señor usuario ingrese los mililitros del perfume a comprar'
+5
+1
+10
+mililitros
+6
+3
+5
+valor
+15
+4500*mililitros
+3
+iva
+12
+(valor)*0.19
+6
+total 
+9
+valor+iva
+4
+1
+31
+'el usuario debe pagar' , total
+1

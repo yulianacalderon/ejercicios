@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'ingrese el valor de la compra'
+5
+1
+5
+valor
+7
+0
+1
+12
+valor>180000
+6
+1
+7
+compra 
+11
+valor+20000
+4
+1
+32
+'el usuario debe pagar ', compra
+13
+4
+1
+29
+'el total a pagar es ', valor
+13
+1

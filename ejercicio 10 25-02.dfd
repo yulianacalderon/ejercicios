@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'señor usuario ingrese su edad'
+5
+1
+4
+edad
+4
+1
+45
+'señor usuario ingrese el valor de su compra'
+5
+1
+5
+valor
+7
+0
+1
+7
+edad>50
+4
+1
+32
+'su valor a pagar es de ', valor
+13
+6
+2
+9
+descuento
+10
+valor*0.10
+5
+total
+15
+valor-descuento
+4
+1
+32
+'su valor a pagar es de ', total
+13
+1

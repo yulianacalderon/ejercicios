@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'ingrese el valor del primer producto'
+5
+1
+6
+valor1
+4
+1
+39
+'ingrese el valor del segundo producto'
+5
+1
+6
+valor2
+4
+1
+33
+'ingrese el valor del producto 3'
+5
+1
+6
+valor3
+6
+2
+4
+suma
+20
+valor1+valor2+valor3
+9
+descuento
+16
+suma-(suma*0.05)
+4
+1
+9
+descuento
+1

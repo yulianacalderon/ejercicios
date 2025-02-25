@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'ingrese el porcentaje de la compra'
+5
+1
+10
+porcentaje
+4
+1
+20
+'valor de la compra'
+5
+1
+5
+valor
+4
+1
+20
+'nombre del cliente'
+5
+1
+6
+nombre
+6
+2
+9
+descuento
+22
+valor*(porcentaje/100)
+5
+valor
+15
+valor-descuento
+4
+1
+62
+'hola señor@ ', nombre ,' usted debe pagar ',  valor ,' pesos'
+1
