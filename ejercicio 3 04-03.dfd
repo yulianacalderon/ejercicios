@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Digite el valor de su compra'
+5
+1
+5
+valor
+4
+1
+178
+'Digite su sexo ', ' sabiendo que ', '                                          1.masculino ' , '                                                                      2.Femenino'
+5
+1
+4
+sexo
+7
+0
+1
+12
+valor<100000
+7
+0
+1
+6
+sexo=1
+6
+1
+4
+des1
+18
+valor- (valor*0.1)
+4
+1
+29
+'Su valor a pagar es: ' ,des1
+13
+6
+1
+3
+des
+18
+valor- (valor*0.2)
+4
+1
+29
+'Su valor a pagar es: ' , des
+13
+13
+4
+1
+38
+'No cumple con el valor de su compra '
+13
+1

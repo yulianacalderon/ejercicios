@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'digite el valor del primer producto'
+5
+1
+5
+prod1
+4
+1
+38
+'digite el valor del segundo producto'
+5
+1
+5
+prod2
+6
+3
+4
+des1
+17
+prod1-(prod1*0.1)
+4
+des2
+17
+prod2-(prod2*0.2)
+5
+total
+9
+des1+des2
+4
+1
+33
+'El valor a pagar es de: ', total
+1
