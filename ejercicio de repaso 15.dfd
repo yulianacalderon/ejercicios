@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+40
+'Ingrese el primer cateto del triangulo'
+5
+1
+7
+cateto1
+4
+1
+41
+'Ingrese el segundo cateto del triangulo'
+5
+1
+7
+cateto2
+6
+1
+10
+hipotenusa
+32
+(cateto1 ^ 2 + cateto2 ^ 2) ^0.5
+4
+1
+47
+'La hipotenusa del triangulo es: ' , hipotenusa
+1

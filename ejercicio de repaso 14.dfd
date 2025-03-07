@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+43
+'Ingrese el lado de la base de la pirámide'
+5
+1
+4
+base
+4
+1
+34
+'Ingrese la altura de la pirámide'
+5
+1
+6
+altura
+6
+1
+7
+volumen
+26
+(1/3) * (lado ^2) * altura
+4
+1
+53
+'El volumen de la piramire restangular es: ', volumen
+1

@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Ingrese la cantidad de litros'
+5
+1
+6
+litros
+6
+1
+7
+galones
+15
+litros*0.264172
+4
+1
+121
+'La conversion de litros a galones es:                                     ', litros, ' Litros = ', galones, ' Galones ' 
+1

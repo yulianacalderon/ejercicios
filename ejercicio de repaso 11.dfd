@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+27
+'Ingrese el radio del cono'
+5
+1
+5
+radio
+4
+1
+28
+'Ingrese la altura del cono'
+5
+1
+6
+altura
+6
+1
+12
+volumen_cono
+36
+(1/3) * 3.1416 * (radio ^2) * altura
+4
+1
+41
+'El volumen del cono es: ' , volumen_cono
+1

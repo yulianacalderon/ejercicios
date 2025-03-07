@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Ingrese el radio de la espera'
+5
+1
+5
+radio
+6
+1
+4
+area
+23
+4 * 3.1416 * (radio ^2)
+4
+1
+33
+'El area de la esfera es: ', area
+1

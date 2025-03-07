@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+'Ingrese la distancia ' 
+5
+1
+9
+distancia
+4
+1
+19
+'Ingrese el tiempo'
+5
+1
+6
+tiempo
+6
+1
+9
+velocidad
+16
+distancia/tiempo
+4
+1
+36
+'La velociada media es: ', velocidad
+1

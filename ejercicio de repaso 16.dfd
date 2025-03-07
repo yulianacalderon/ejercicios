@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'Ingresa la masa'
+5
+1
+4
+masa
+4
+1
+22
+'Ingrese la velocidad'
+5
+1
+9
+velocidad
+6
+1
+16
+energia_cinetica
+21
+1/2* masa*velocidad^2
+4
+1
+62
+'La energia cinetica es: ' , energia_cinetica , ' Joules (J) '
+1

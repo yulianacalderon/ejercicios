@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Digite el ancho del prisma' 
+5
+1
+5
+ancho
+4
+1
+28
+'Digite el alto del prisma' 
+5
+1
+6
+altura
+4
+1
+29
+'Digite el largo del prisma' 
+5
+1
+5
+largo
+6
+1
+7
+volumen
+22
+largo * ancho * altura
+4
+1
+51
+'El volumen del prista rectangular es: ',  volumen 
+1
