@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'Ingrese el primer numero'
+5
+1
+4
+num1
+4
+1
+27
+'Ingrese el segundo numero'
+5
+1
+4
+num2
+7
+0
+1
+11
+num1 > num2
+7
+0
+1
+12
+num1 = num2 
+4
+1
+28
+'El segundo numero es mayor'
+13
+4
+1
+24
+'Los numero son iguales'
+13
+13
+4
+1
+27
+'El primer numeor es mayor'
+13
+1

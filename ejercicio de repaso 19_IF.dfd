@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'Ingrese su temperatura corporal'
+5
+1
+4
+temp
+7
+0
+1
+8
+temp>=38
+4
+1
+17
+'NO tiene fiebre'
+13
+4
+1
+14
+'Tiene fiebre'
+13
+1

@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+'Ingrese la temperatura en grados Celsius'
+5
+1
+4
+temp
+7
+0
+1
+11
+temp >= 100
+4
+1
+36
+'NO está en ebullición o por encima'
+13
+4
+1
+33
+'Está en ebullición o por encima'
+13
+1

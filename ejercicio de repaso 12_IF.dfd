@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+39
+'Ingrese la edad de la primera persona'
+5
+1
+5
+edad1
+4
+1
+39
+'Ingrese la edad de la segunda persona'
+5
+1
+5
+edad2
+7
+0
+1
+13
+edad1 > edad2
+7
+0
+1
+13
+edad2 > edad1
+4
+1
+28
+'Ambas tienen la misma edad'
+13
+4
+1
+29
+'La segunda persona es mayor'
+13
+13
+4
+1
+29
+'La primera persona es mayor'
+13
+1

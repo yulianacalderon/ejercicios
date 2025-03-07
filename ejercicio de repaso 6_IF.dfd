@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+25
+'Ingrese la primera nota'
+5
+1
+5
+nota1
+4
+1
+25
+'Ingrese la segunda nota'
+5
+1
+5
+nota2
+4
+1
+25
+'Ingrese la tercera nota'
+5
+1
+5
+nota3
+6
+1
+8
+promedio
+22
+(nota1+nota2+nota3) /3
+7
+0
+1
+13
+promedio>=3.0
+4
+1
+50
+'El estudiante NO aprobó, su nota es: ' ,promedio 
+13
+4
+1
+47
+'El estudiante aproó, siu nota es: ' , promedio
+13
+1

@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'Digite su edad'
+5
+1
+4
+edad
+4
+1
+31
+'Digite el valor de la entrada'
+5
+1
+5
+valor
+7
+0
+1
+7
+edad<18
+4
+1
+76
+'El valor de la entrada NO tiene un descuento, Su valor a pagar es: ', valor
+13
+6
+1
+9
+descuento
+18
+valor-(valor*0.20)
+4
+1
+86
+'El valor de la entrada tiene un descuento del 20% , Su valor a pagar es: ', descuento
+13
+1

@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'Ingrese el monto de la compra'
+5
+1
+6
+compra
+7
+0
+1
+15
+compra > 100000
+4
+1
+34
+'Su valor a pagar es de: ', compra
+13
+6
+1
+8
+impuesto
+22
+compra+(compra * 0.05)
+4
+1
+36
+'Su valor a pagar es de: ', impuesto
+13
+1
