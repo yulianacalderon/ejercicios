@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Ingrese los tres lados del triángulo'
+5
+1
+5
+a,b,c
+7
+0
+1
+23
+a = b or b = c or a = c
+4
+1
+30
+'NO es un triángulo isósceles'
+13
+4
+1
+27
+'Es un triángulo isósceles'
+13
+1

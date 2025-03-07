@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Ingrese el primer lado del triangulo'
+5
+1
+1
+a
+4
+1
+39
+'Ingrese el segundo lado del triangulo'
+5
+1
+1
+b
+4
+1
+38
+'Ingrese el tercer lado del triangulo'
+5
+1
+1
+c
+7
+0
+1
+17
+a = b  and  b = c
+4
+1
+31
+'NO es un triángulo equilátero'
+13
+4
+1
+28
+'Es un triángulo equilátero'
+13
+1
